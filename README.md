@@ -12,7 +12,7 @@ Here's my [portfolio](www.justinthomascreates.com).
 - ExpressJS
 - MongoDB
 - Git/GitHub
-- API integration
+- REST APIs
 
 ## Other Interests
 
@@ -21,6 +21,11 @@ Here's my [portfolio](www.justinthomascreates.com).
 - Travel
 - AI
 - Languages (spoken, not just software)
+- Philosophy
+
+## Get In Touch
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/justin-thomas-9b4237b9/).
 
 <!---
 justinshane13/justinshane13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
