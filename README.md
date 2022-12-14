@@ -1,6 +1,6 @@
 # Hi! I’m Justin 👋
 
-Here's my [portfolio](https://www.justinthomascreates.com/)
+Here's my [portfolio](https://www.justinthomascreates.com/).
 
 ## Tools
 
