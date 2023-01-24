@@ -20,7 +20,7 @@ Here's my [portfolio](https://www.justinthomascreates.com/).
 - Autonomous Things
 - Travel
 - AI
-- Languages (spoken, not just software)
+- Languages (spoken, not just programming)
 - Philosophy
 
 ## Get In Touch
