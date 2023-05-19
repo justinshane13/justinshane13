@@ -6,6 +6,7 @@ Here's my [portfolio](https://www.justinthomascreates.com/).
 
 - JavaScript
 - React
+- NextJS
 - HTML
 - CSS
 - NodeJS
@@ -20,7 +21,7 @@ Here's my [portfolio](https://www.justinthomascreates.com/).
 - Autonomous Things
 - Travel
 - AI
-- Languages (spoken, not just programming)
+- Spoken Languages
 - Philosophy
 
 ## Get In Touch
