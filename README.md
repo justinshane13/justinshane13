@@ -23,7 +23,7 @@ Check out my [portfolio](https://www.justinthomascreates.com/) to see live versi
 - AI
 - Spoken Languages
 - Philosophy
-- Gaming
+- Games
 
 ## Get In Touch
 
