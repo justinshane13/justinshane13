@@ -5,6 +5,7 @@ Check out my [portfolio](https://www.justinthomascreates.com/) to see live versi
 ## Technologies
 
 - JavaScript
+- TypeScript
 - React
 - NextJS
 - HTML
@@ -12,6 +13,7 @@ Check out my [portfolio](https://www.justinthomascreates.com/) to see live versi
 - NodeJS
 - ExpressJS
 - MongoDB
+- SQL
 - Git/GitHub
 - REST APIs
 
